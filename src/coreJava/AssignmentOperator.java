@@ -35,6 +35,6 @@ public class AssignmentOperator {
 		a <<= 6;
 		System.out.println("a <<=6: " + a);
 
-	}
+	}// assigment operator
 
 }
